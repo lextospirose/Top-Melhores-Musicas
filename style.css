@@ -2,6 +2,7 @@ body {
 background: #00557f;
 color: #0B0B3D;
  font-family: "Montserrat", sans-serif;
+ margin-bottom: 100px;
 }
 
 header {
@@ -23,7 +24,7 @@ img {
     height: 300px;
 }
 
-.Boas {
+.videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -33,4 +34,8 @@ img {
     opacity: 0.5;
     border: 1px solid rgb(9, 9, 53);
     height: 300px;
+}
+.Boas {
+    background-color: #2182a8;
+    padding-top: 100px;
 }
