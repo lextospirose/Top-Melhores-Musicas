@@ -29,6 +29,13 @@ img {
     height: 300px;
 }
 
+footer {
+    opacity: 0.5;
+    padding-top: 80px;
+    padding-left: 50px;
+    text-decoration: dotted;
+}
+
 .Melhores {
     border-left: solid 10px rgba(11, 23, 49, 0.466);
     padding-left: 10px;
