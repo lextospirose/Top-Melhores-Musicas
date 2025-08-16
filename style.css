@@ -25,6 +25,9 @@ img {
     height: 300px;
 }
 
+.Melhores {
+    border: solid 10px green ;
+}
 .videos {
     display: flex;
     overflow-x: auto;
@@ -32,18 +35,22 @@ img {
     padding-top: 20px;
     margin-left: 10px;
     margin-right: 10px;
-    margin-bottom: 10px;
 
 }
 .Boas img:hover {
     opacity: 0.5;
     border: 1px solid rgb(18, 47, 102);
     height: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .Boas {
     background-color: #2182a8;
-    padding-top: 20px;
-    margin-top: 50px;
+  margin-top: 50px;
+  padding-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+    
 }
 
 p {
