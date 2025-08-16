@@ -1,24 +1,28 @@
 body {
-background: #00557f;
-color: #0B0B3D;
- font-family: "Montserrat", sans-serif;
- margin-bottom: 100px;
+    background: #00557f;
+    color: #0B0B3D;
+    font-family: "Montserrat", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
-border-bottom: solid 2px rgb(29, 20, 36);
-padding: 10px;
-font-size: 20px;
-color: rgb(29, 20, 36);
+    border-bottom: solid 2px rgb(29, 20, 36);
+    padding: 10px;
+    font-size: 20px;
+    color: rgb(29, 20, 36);
 }
 
 h1 {
     font-size: 40px;
 }
 
-h2{
+h2 {
     font-size: 20px;
     margin-left: 20px;
+}
+
+p {
+    height: 100%;
 }
 
 img {
@@ -26,8 +30,10 @@ img {
 }
 
 .Melhores {
-    border: solid 10px green ;
+    border-left: solid 10px rgba(11, 23, 49, 0.466);
+    padding-left: 10px;
 }
+
 .videos {
     display: flex;
     overflow-x: auto;
@@ -37,6 +43,7 @@ img {
     margin-right: 10px;
 
 }
+
 .Boas img:hover {
     opacity: 0.5;
     border: 1px solid rgb(18, 47, 102);
@@ -44,15 +51,23 @@ img {
     margin-left: 10px;
     margin-right: 10px;
 }
+
 .Boas {
     background-color: #2182a8;
-  margin-top: 50px;
-  padding-top: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
-    
+    margin-top: 50px;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
-p {
-    height: 100%;
+.town {
+    margin-bottom: 50px;
+}
+
+.sugar {
+    margin-bottom: 50px;
+}
+
+.lisboa {
+    margin-bottom: 50px;
 }
