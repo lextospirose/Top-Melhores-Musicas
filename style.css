@@ -18,10 +18,11 @@ h1 {
 
 h2{
     font-size: 20px;
+    margin-left: 20px;
 }
 
 img {
-    height: 200px;
+    height: 300px;
 }
 
 .videos {
@@ -29,12 +30,15 @@ img {
     overflow-x: auto;
     gap: 10px;
     padding-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 
 }
 .Boas img:hover {
     opacity: 0.5;
     border: 1px solid rgb(18, 47, 102);
-    height: 200px;
+    height: 300px;
 }
 .Boas {
     background-color: #2182a8;
