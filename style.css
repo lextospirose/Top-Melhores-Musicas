@@ -29,3 +29,8 @@ img {
     gap: 10px;
 
 }
+.Boas img:hover {
+    opacity: 0.5;
+    border: 1px solid rgb(9, 9, 53);
+    height: 300px;
+}
